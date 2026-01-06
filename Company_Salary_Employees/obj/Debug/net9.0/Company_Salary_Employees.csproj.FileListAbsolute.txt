@@ -1,0 +1,14 @@
+C:\Users\euagg\OneDrive\Desktop\Aegean College Computing\2o Etos\2o Etos-Xeimerino Examino\Object Oriented Programming\Mathima 9\Company_Salary_Employees\bin\Debug\net9.0\Company_Salary_Employees.exe
+C:\Users\euagg\OneDrive\Desktop\Aegean College Computing\2o Etos\2o Etos-Xeimerino Examino\Object Oriented Programming\Mathima 9\Company_Salary_Employees\bin\Debug\net9.0\Company_Salary_Employees.deps.json
+C:\Users\euagg\OneDrive\Desktop\Aegean College Computing\2o Etos\2o Etos-Xeimerino Examino\Object Oriented Programming\Mathima 9\Company_Salary_Employees\bin\Debug\net9.0\Company_Salary_Employees.runtimeconfig.json
+C:\Users\euagg\OneDrive\Desktop\Aegean College Computing\2o Etos\2o Etos-Xeimerino Examino\Object Oriented Programming\Mathima 9\Company_Salary_Employees\bin\Debug\net9.0\Company_Salary_Employees.dll
+C:\Users\euagg\OneDrive\Desktop\Aegean College Computing\2o Etos\2o Etos-Xeimerino Examino\Object Oriented Programming\Mathima 9\Company_Salary_Employees\bin\Debug\net9.0\Company_Salary_Employees.pdb
+C:\Users\euagg\OneDrive\Desktop\Aegean College Computing\2o Etos\2o Etos-Xeimerino Examino\Object Oriented Programming\Mathima 9\Company_Salary_Employees\obj\Debug\net9.0\Company_Salary_Employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\euagg\OneDrive\Desktop\Aegean College Computing\2o Etos\2o Etos-Xeimerino Examino\Object Oriented Programming\Mathima 9\Company_Salary_Employees\obj\Debug\net9.0\Company_Salary_Employees.AssemblyInfoInputs.cache
+C:\Users\euagg\OneDrive\Desktop\Aegean College Computing\2o Etos\2o Etos-Xeimerino Examino\Object Oriented Programming\Mathima 9\Company_Salary_Employees\obj\Debug\net9.0\Company_Salary_Employees.AssemblyInfo.cs
+C:\Users\euagg\OneDrive\Desktop\Aegean College Computing\2o Etos\2o Etos-Xeimerino Examino\Object Oriented Programming\Mathima 9\Company_Salary_Employees\obj\Debug\net9.0\Company_Salary_Employees.csproj.CoreCompileInputs.cache
+C:\Users\euagg\OneDrive\Desktop\Aegean College Computing\2o Etos\2o Etos-Xeimerino Examino\Object Oriented Programming\Mathima 9\Company_Salary_Employees\obj\Debug\net9.0\Company_Salary_Employees.dll
+C:\Users\euagg\OneDrive\Desktop\Aegean College Computing\2o Etos\2o Etos-Xeimerino Examino\Object Oriented Programming\Mathima 9\Company_Salary_Employees\obj\Debug\net9.0\refint\Company_Salary_Employees.dll
+C:\Users\euagg\OneDrive\Desktop\Aegean College Computing\2o Etos\2o Etos-Xeimerino Examino\Object Oriented Programming\Mathima 9\Company_Salary_Employees\obj\Debug\net9.0\Company_Salary_Employees.pdb
+C:\Users\euagg\OneDrive\Desktop\Aegean College Computing\2o Etos\2o Etos-Xeimerino Examino\Object Oriented Programming\Mathima 9\Company_Salary_Employees\obj\Debug\net9.0\Company_Salary_Employees.genruntimeconfig.cache
+C:\Users\euagg\OneDrive\Desktop\Aegean College Computing\2o Etos\2o Etos-Xeimerino Examino\Object Oriented Programming\Mathima 9\Company_Salary_Employees\obj\Debug\net9.0\ref\Company_Salary_Employees.dll
